@@ -1,5 +1,7 @@
 import io,sys
 import os
+from PyPDF2 import PdfFileWriter, PdfFileReader
+from tika import parser
 
 
 #Get your PC's PATH
