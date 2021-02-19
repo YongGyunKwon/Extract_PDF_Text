@@ -1,31 +1,26 @@
 import fitz 
 
-# from pdf2image import convert_from_path
-# from pdf2image import convert_from_path, convert_from_bytes
+#pdffile => pdf 파일명 string 파라미터로 입력
+def pdf_to_image(pdffile,savepath):
+    doc=fitz.open(pdffile)
+    #page count 
+    pagecount=doc.pageCount
+
+    print(pagecount)
+
+    #read pdf page to png
+    for i in  range(0,pagecount):
+        print(i)
+        page =doc.loadPage(i)
+        pix= page.getPixmap()
+        output= savepath+ "\\outfile_{}.jpg".format(i)
+        pix.writePNG(output)
 
 
-# def pdf2img_converter(filename):
-#     pages= convert_from_path("ISO26262_guide.pdf",500,poppler_path=r'D:\\2_CodeBase\\1_ISO26262Text\\Extract_PDF_Text\\pdffile')
+#example path
+savepath="D:\\2_CodeBase\\1_ISO26262Text\\Extract_PDF_Text\\pdffile"
+#example file path
+pdffile="D:\\2_CodeBase\\1_ISO26262Text\\Extract_PDF_Text\\pdffile\\ISO26262_guide.pdf"
 
-    
-
-#     for page in pages:
-#         print(page)
-#         #page.save('out_{}'.format(page),'JPEG')
-    
-# pdf2img_converter("D:/2_CodeBase/1_ISO26262Text/Extract_PDF_Text/pdffile/ISO26262_guide.pdf")
-
-
-
-
-pdffile="D:/2_CodeBase/1_ISO26262Text/Extract_PDF_Text/pdffile/ISO26262_guide.pdf"
-
-doc= fitz.open(pdffile)
-
-page =doc.loadPage(0)
-
-pix= page.getPixmap()
-
-output= "outfile.png"
-
-pix.writePNG(output)
+#For test 
+#pdf_to_image(pdffile,savepath)
