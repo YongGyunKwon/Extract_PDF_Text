@@ -51,4 +51,3 @@ def image_to_string_multi(dirname):
 
 #image_to_string2("D:\\2_CodeBase\\1_ISO26262Text\\Extract_PDF_Text\\pdffile\\outfile_7.jpg")
 image_to_string_multi("D:\\2_CodeBase\\1_ISO26262Text\\Extract_PDF_Text\\pdffile")
-
