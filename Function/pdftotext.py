@@ -2,7 +2,6 @@ import os
 import sys
 import PyPDF2
 from PyPDF2 import PdfFileWriter, PdfFileReader
-#from tika import parser
 
 from io import StringIO
 from pdfminer.converter import TextConverter
@@ -13,9 +12,10 @@ from pdfminer.pdfpage import PDFPage
 from pdfminer.pdfparser import PDFParser
 
 
-
-##PDF VER(If this function is not working, use another function)
-## Parameter => pdf_file_path (String)
+#PDF VER(If this function is not working, use another function)
+# PDF안의 글자를 인식하지 못한다면, img 변환 후 tesseract 수행
+# Parameter => pdf_file_path (String)
+# return type: string 
 def read_pdf_PDFMINER(pdf_file_path):
     """
     pdf_file_path: 'dir/aaa.pdf'로 구성된 path로부터 
@@ -37,3 +37,4 @@ def read_pdf_PDFMINER(pdf_file_path):
 
 ##test
 print(read_pdf_PDFMINER("D:/2_CodeBase/1_ISO26262Text/Extract_PDF_Text/pdffile/1.pdf"))
+
