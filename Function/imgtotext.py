@@ -28,10 +28,12 @@ def image_to_string2(filename):
 
     cv2.imwrite(filename,gray)
     
-    text=pytesseract.image_to_string(Image.open(filename),lang='kor')
+    text=pytesseract.image_to_string(Image.open(filename),lang='kor+eng')
     os.remove(filename)
 
     print(text)
+
+    return text
 
     #cv2.imshow("Image",image)
     #cv2.waitKey(0)
@@ -40,14 +42,36 @@ def image_to_string2(filename):
 def image_to_string_multi(dirname):
     filenames= os.listdir(dirname)
     #print(filenames)
+    
+    #results=[]
 
     for filename in filenames:
         
         #파일형식이 .jpg인 것 고르기
         if filename[-4:]==".jpg":
             file1=dirname+"\\"+filename
+            print("filename is  "+filename)
             print(file1)
-            image_to_string2(file1)
+            result_tmp=image_to_string2(file1)
+            
+
+            #results.append(image_to_string2(file1))
+            filename1=filename[:-4]
+            #print(filename1)
+            
+            file=open('D:\\2_CodeBase\\1_ISO26262Text\\Extract_PDF_Text\\result\\{}.txt'.format(filename1),'w',encoding="utf-8")
+            file.write(result_tmp)
+            file.close()
+    
+    #return results
 
 #image_to_string2("D:\\2_CodeBase\\1_ISO26262Text\\Extract_PDF_Text\\pdffile\\outfile_7.jpg")
 image_to_string_multi("D:\\2_CodeBase\\1_ISO26262Text\\Extract_PDF_Text\\pdffile")
+
+#print(result[2])
+
+# file = open('1.txt','w')
+
+# file.write(result[2])
+
+# file.close() 
