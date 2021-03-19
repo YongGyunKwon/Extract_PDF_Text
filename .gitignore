@@ -130,4 +130,6 @@ dmypy.json
 
 #example file 
 pdffile/
-result/
+#result/
+#result(kor)/
+result(eng)/

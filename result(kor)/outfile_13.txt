@@ -1,0 +1,24 @@
+ 
+1. 안전(Safety)의 이해
+
+
+1. 안전(Safety) 개념
+국제표준 ISO/IEC Guide 51*에서는 안전을 '허용할 수 없는 위험으로부터의 자유(Freedom from Risk Which is not Tolerable)'라고정의현다
+	ISO/IEC51 : Safety Aspects- Guidelines for their inclusion in standards
+								(안전측면의 표준이나 규정을 제정할 떄 고려해야 할 지침)
+
+기타 관련 표준에서는 다음과같이 정의한다.
+	-사망, 부상, 직업병, 장비 또는 재산의 손상, 손실 또는 환경 손상을 발생할 수 있는 조건으로부터의 자유
+	Freedom from Conditions that can Cause Death, injury, Occupational Illness, Damage to or Loss of Equipment or Property, or Damage to the Environment
+		*출저: MIL-STD-882E SYSTEM SAFETY, DoD(2012-05-11)SAFETY,DoD(2012-05-11)
+
+또한 기타 관련법규 및 규정에서는 다음과 같이 정의하고 있다.
+	- 안전:자연적 혹인 인적ㆍ인위적 위혐요인이 없거나, 이러한 위험 요인에 대한 충분한 대비가 되어 있는 상태
+			*출저: 국가안전관리 기본계획(행정안전부,2017)
+	- 안전 관리 :재난이나그 밖의 각종 사고로부터 사람의 생명ㆍ신체 및 재산의 안전을 확보하기 위하여 하는 모든 활동
+			*출저: 재난 및 안전관리 기본법(행정안전부,2017)
+	- 산업 안전 : 산업재해가 일어날 가능성이 있는 건설몰, 장치, 기계, 재료 등의 손상, 파괴메 기인하는 짐재위험성(Hazard)을 배제하여 안전성 확보를 목적으로 한이넘
+			*출저: 산업안전보건법(고용노동부,2018)
+ 
+앞서 살펴보았듯이 국내외 안전 관련 표준 및 법규에서는 공통적으로 안전에 대해 허용 가능한 수준의 상태 또
+는 위험 요인에 대해 충분한 대비가 되어 있는 상태를 조건으로 제시하고 있다.

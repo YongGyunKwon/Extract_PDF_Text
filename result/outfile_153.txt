@@ -1,0 +1,72 @@
+Pact               a                                       4S AR
+Chapter                                      SW 7 SE 8 4)
+
+Output ata
+EVE22 BATT Montoring WEE Ou Data OHA]
+
+Name.
+
+000
+
+eATSANS ㅣ UNTS          0006 | OAPT sor Bit
+나서서
+SELREGRST UMTS   OF HAR   1994 HWY Reset
+
+ 
+
+aM zeneciaatue
+
+‘© Functional Call Return Value, 하단 Software Component? 40H Global Variable, 타 Sofware
+Component st task ste Message SE Output Data 258 4 218,
+
+(9 BOA, np Datae| Adress I+ 21S S Adress DEHOHE SP)
+
+1 eternal Software Units List
+5.1.23 BATT Monitoring 8442 rteral Software Unis Lst |
+
+ 
+
+Fun
+
+ 
+
+n De:
+
+ 
+
+pt
+
+                                                                                                                                  
+
+XT Sa PRIMCURegs
+버리기 | 목아 이
+
+“Oa: Corgan Fal
+
+MOLe| 0c Perphera BARBATT ERB
+Oia ROICE! SFr 5, 반환
+pant
+
+2         (Une® ADC. Read BATTVOIS) | ReuTiabe
+~001 “OFE-AztOV 400)
+~200:A0¢ Fast (SartoG0)
+
+OFF ADC as tera Fae)
+
+EL AOC 8 BEL Over votone, Ur
+Gersyorages 23012, 판정 = wrt
+
+                                                                                            
+
+ 
+
+ 
+
+ 
+
+;      Unseart varchar s | BEBE
+0000        OxF1: BATT OK (in-range)
+Oetc BAT are nerve
+octacBaTT Fae -Unersctge
+1                     aeniaweres
+

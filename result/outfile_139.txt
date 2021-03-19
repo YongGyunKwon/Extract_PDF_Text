@@ -1,0 +1,53 @@
+Pact               o                                       48 Ae
+Chapter 0”                                      SW 7 SE 8 4)
+
+BhHw-sw elena aya
+(1) ECU 31넥터인터페이스
+CURE HV SPR 210 2D
+FEV ECU? HYUN SEI 20
+
+                                                                                                                                                                          
+  
+
+READ
+
+0003.             i.
+
+25 | 9000 | 엮음              we
+
+ 
+
+(9 PrN: ECU >REFEL 21 REO One Pat
+
+1 Prndesction: Pros
+
+(© Signal Tet Analog PWM CAN message, LN message.
+
+1 brterface rast: ECU>MERIMCU He CHIC Ae QML BIE} ENoHs BF, QEIMDLA ABO HN
+ante
+
+(© HWVID/Neme:2} HW SERIES) Fr} 90} 7/28
+
+(© MCUP No: MOUS C92} pn ANE IBC
+
+(© Prams: MCUSEEIC2!2tpinnamed IHC
+
+(Register Name MCU SE=1C2 pr] US HW STAEIS
+‘gol gte ok WA’ BAR
+
+.* Direction: MOUSE ICO} 20H 2 8044 oI WR / Out /Br- rectors BARRE
+
+(SW veriable Name SW BAF IB AIO 944진입점6007 Pont BBC
+
+.* 11 AD NAH Sw RPA IM JO} BeNACosistency RARE
+
+ 
+
+경우 HWA PEO OI 71RD
+
+ 
+
+ 
+
+                                      amniewerow
+

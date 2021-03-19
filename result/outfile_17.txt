@@ -1,0 +1,43 @@
+ 
+
+chapter) 15 QF unctional Safety)at ABEA|O) or(Software Safety)
+
+fate A 71s 안전 AEA 메시이미, AL ABE 부록 1. 산업별 ate GL HAR AHI
+
+기능 안전 관련 BE 9 52 go}
+
+o meas
+Functional etry of EelecrcaVBetronc/Programmeble Electronic Seetyrared Systems,
+.* a x0) EEE
+clear Power Plants nsrumersation and Cotrel important Safety ~ General Requirement for Systems
+oaseo IE
+alway Appleton’ -Communkstion, Signing an Processing Systems ~ Software fo Raley Control nd
+Protection Systems
+oxsieo EE
+Road Vehicles Functional Safety
+oxzeo
+Functional Setty Safety istamented Systems forthe Process industry Sector,
+ora
+'Ssety or Mcrinery- Functional Safety of Sfetyeloted Elec Bectronc and Programmable Electronic
+contrat systems
+
+기 813 WO OFION HEY RE 다음 AON OH + 있다.
+에 들어 화재 wes Ao 센서의 연기 감지를 통해서 화재 BAAR 활성확하거, 가연성 et) IEE
+‘A501 Ob FFE 위험한 수준에 Sele BE 잠금 AGE ACO! PF PELs: 2S 막는 것이
+is SOIC. OFFA HR ABIOL WS BOK LAW 기능 SHEA SEH ALAWAcIVE System)
+ovata 한다
+
+‘eo, SoH 2A te Nas BOIL ELAINE 수동적("0594 Systm) 안전이미 가능 안전아고 하지
+않는다. 동일한 AONE BEB + 있지만 기능 VION 해당하지는 않는다. 이처럼 일반적인 EI 달리
+기능 안전의 가장 2 BBE 능동적 AWOL 의폰한다는 것이다.
+
+2s ISL BAL! ALA SE 아래[그림 -3)과같이 기능 안전 2-2APBKSafety function requirements)
+과 안전 무결성 요구사항(5210 Integr requrementsI>4 S18 PREC
+
+여기서 기능 안전 FARR SEI 감소 CAB OTC, 시스템 PIR RAE SAHA SHEL 또한 안전
+FBS QIABS ALAMO) 위험 FEB OTe 시스템 위험 BIE 통해서 SVE,
+
+ 
+
+                                      amieweree
+

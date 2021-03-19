@@ -1,0 +1,45 @@
+0 0
+
+
+5. 참고 문헌 
+
+- ISO 26262-1:2011 Road vehicles -- Functional safety -- Part 1: Vocabulary
+- ISO 26262-2:2011 Road vehicles -- Functional safety -- Part 2: Management of funcional safety
+- ISO 26262-3:2011 Road vehicles -- Functional safety -- Part 3: Concept phase
+- ISO 26262-4:2011 Road vehicles -- Functional safety -- Part 4: Product development at the system level
+- ISO 26262-5:2011 Road vehicles -- Functional safety -- Part 4: Product development at the hardware level
+- ISO 26262-6:2011 Road vehicles -- Functional safety -- Part 6: Product development at the software level
+- ISO 26262-7:2011 Road vehicles -- Functional safety -- Part 7: Production and operation
+- ISO 26262-8:2011 Road vehicles -- Functional safety -- Part 8: Supporting processes
+- ISO 26262-9:2011 Road vehicles -- Functional safety -- Part 9: Automotive Safety Integrity Lavel (ASIL)- oriented and safety-oriented analyses
+- ISO 26262-10:2011 Road vehicles -- Functional safety -- Part 10: Guideline on ISO 26262
+- KS R ISO 26262-1:2012도로차량 - 기능안전 - 제1부: 용어
+- KS R ISO 26262-2:2012도로차량 - 기능안전 - 제2부: 기능 안전 관리
+- KS R ISO 26262-3:2012도로차량 - 기능안전 - 제3부: 개념 단계
+- KS R ISO 26262-4:2012도로차량 - 기능안전 - 제4부: 시스템 수준의 제품 개발
+- KS R ISO 26262-5:2012도로차량 - 기능안전 - 제5부: 하드웨어 수준의 제품 개발
+- KS R ISO 26262-6:2012도로차량 - 기능안전 - 제6부: 소프트웨어 수준의 제품 개발
+- KS R ISO 26262-7:2012도로차량 - 기능안전 - 제7부: 생산 및 운영
+- KS R ISO 26262-8:2012도로차량 - 기능안전 - 제8부: 지원 프로세스
+- KS R ISO 26262-9:2012도로차량 - 기능안전 - 제9부: 자동차 안전무결성 수준(ASIL) 및 안전 기반 분석
+- KS R ISO 26262-10:2012도로차량 - 기능안전 - 제10부: KS R ISO 26262에 대한 지침
+- IEC 61508-12010 Functonal safety of electrial/electronic/programmable electronic safety-reated systems - Part 1: General requiremerts
+- IEC 61508-12010 Functonal safety of electrial/electronic/programmable electronic safety-reated systems - Part 2: Requirements for deetici/lecronilprogammetle electronic safety-related
+‘tems
+- IEC 61508-12010 Functonal safety of electrial/electronic/programmable electronic safety-reated systems - Part 3:Part 3: Softwere requirements
+- IEC 61508-12010 Functonal safety of electrial/electronic/programmable electronic safety-reated systems - Part 4: Definitions and abbrevations
+- IEC 61508-12010 Functonal safety of electrial/electronic/programmable electronic safety-reated systems - Part 5: Part 5: Examples of methods for the determination of safety integrity levels
+- IEC 61508-62010 Functional safety of eectrical/elecronic/programmable electronic safety-related
+systems - Part 6: Gudelnes on the applicaton of IEC 61508-2 and IEC 61508-3
+
+
+.＊54안전가이드8분야
+
+- 54안전가으의2기기분야
+
+- 544안전가이드절도분야
+
+ 
+
+11100 32523
+

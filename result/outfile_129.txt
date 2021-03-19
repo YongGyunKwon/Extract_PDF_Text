@@ -1,0 +1,61 @@
+Part                      ㅁ                                                             SWE QIPI0IE
+Chapter 000                                                                       SwHB EEA
+
+EIAZESio| BEE 인정
+
+AILS] LIN 인 AIA] EPIRA AH AT HOU MU! BPEIET} 50 2626221
+
+SOPH 생명주기를 준수하지 많고 가발된 된 것으로 재사용하는 경우에 적용한다 재사용하는 컴포넌트가 기능인전 소프
+
+ 트워머 개발에 ARISE 허당 재사용 컴포넌트가소프트웨머에 OFS 빌생시키지 않는지 영향을 평가하는 활동이다.
+
+RHP] SELES ASOD PPE CS BO} 7IS00 | OTT
+
+«AEN ge Mesa
+
+© 소프트웨어 컴포넌트가요구싸항을준수힌다는 SH HE
+
+© 소프트워머 컴포넌트가의도된 사용예 적함하다는 증거자료
+
+EEE FP AMER ERAT) OHSU EOL IAL HER 7NOM tee Bin
+
+-AREQDISRUNSICR APRESS 80 Oe) EOE
+
+AUER BEES TR AT
+ASAD) RISET ARIOPH PERS PANN eR OAL SE ASL
+
+(© AHEAD PELE 인정하기우하여수양되는활동
+
+-AREGD/SHUS| EN NOE S000} Ce) EET
+
+(© 소프트웨어 럼포넌트의 요구사항: 기능 요구시항, 고장인 경우의 행위 빈응 시간 자원 사용 런타잉 환경에대한 요구
+APE, 괴부하 싱태의행워강건셈)등
+
+© 소프트웨머컴프닌트실정예대한설명
+
+1 RE MOLAOICR
+
+eo BRA, 적용마뉴얼
+
+© 소프트웨머컴포넌트 통합에대한 설명
+
+(© 이상직동조건시 기능의 빈용 : 자잔입이 MONO Re-Entrant) 소프트웨어 컴포넌트 기능의재진입 요청
+
+oc ABERpIRUNESIEAY
+
+0 관련된 기타 해결수단과알려진 이상점에대한 설명
+
+-AHSHp/ HUES] SOMES O88 +0 ORE
+
+19150262626 9201} NE HE MOHFOHO C1 SE HB OFAN 7RHARBUILOR
+ 다 개발하는 동안 또는 개발 이전 통합 시험을 실시하는 동안 실행된 A HO] EES] 요구샤항에 개빈탄 시렁
+결과가사용될수있다.
+
+© DEO BP, BUA AA YUL SPE BOON} PCH,
+
+© DHL PARI PRG OP Pte SPIE! OATES woo EET
+
+ 
+
+10                                      amieweree
+

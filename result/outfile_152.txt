@@ -1,0 +1,56 @@
+Part                          o                                                                     BAe
+chapter                           SW 7d SIN
+
+31.120 BATT Monitoring 482 Functionality #4
+
+oN:
+
+                                                                                           
+ 
+    
+    
+   
+  
+ 
+
+18417 LE BE
+
+eae
+"ADC bord gap 1&8 zt
+(Gare Bi obs
+
+ 
+
+wean
+BATT> 160~ Overvokage
+
+BATT ¢7.0-~Underwotage
+
+CATT Eor 8 (abl
+
+2 00000
+
+input Data
+JLVE21, BATT. Montoring S21 Input Data OA
+
+Input Date | pata ry
+메기 unt
+
+CRAM STATUS | ULINT.8—OZF:Craking | 05690 Cranking 218 Ut lbs
+Copied
+
+ 
+
+yd 시주의사항은 다음과같다
+
+‘© Functional Cal Return Value, 882 Software Component? 후줌하는 Gobel 01086. 타 Software
+Component = Task Ugohe Message SE Output Date® 2181 +,
+
+(© BAL Input Data Addressh H7IB 4 있음 (특정 Address TSO} Oh 경위
+
+                                                                                                                                                                               
+
+ 
+
+nipa geeuseuse           1
+

@@ -1,0 +1,58 @@
+Part                 o                                                            가이드
+Chapter                                         SWF BS
+
+ 
+
+BA 소프트웨어 아키텍처 설계
+00개요
+11목트
+© ABE HPQ ANSE 구천하는 소프트웨어야키턱저설제를 7LCHT ASH} OPI AON SEC
+1284
+.* AEE IY MRHO PIM 소프트웨어 OP IA ADR HOH BEC.
+ 그윈 ㅠ-10 4389904 97] - SHY OP Te APL
+
+ 
+
+ 
+
+호 [eer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ABEGIO| SESH
+
+ 
+
+7.3시작가
+
+oe mEHE -OIySIA go
+
+evapo apssia geist
+
+71921 2 RSID ALA APR MON YL
+
+ens AMMP REID se
+
+.* 하드웨어 ATER) SEMA BMAP ANEID Bel
+
+© 모덩과프로그 언어를 FEAL 코딩 EL 직성되고승인된
+9 ABEHOI SAR AMPH EIT SO
+
+ AREHIO| 215 A101 PRISM SPRL
+
+ 
+
+nipa geeuseuse            위
+

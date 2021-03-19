@@ -1,0 +1,69 @@
+Part                    o                                                       BAe
+chapter                                      SW 7 Sm 4
+
+Bh 소프트위어검증
+
+본가이드메너는 소프트웨머단위 AIA, 통합 시험. 인전요구시항 겉증에서공통적으로 oe 시험방법과시엄케이스
+생성받럽메대해서설명한다.
+
+cares
+
+11 SADR
+
+SAR RIARRIS ARO} FD] 최종 AF BIO! GAAS CSUR AIS 확안하는 AIBOICE 요구사항2반시럼은정
+‘BiContext)ol 크게 의존적이며 요구시향이 불완전하거나 일관성이 없으면 기대렬과를 정획히알수 없으므로 시형메 많
+ORE 겪는다.요구사향에우선순위정보가있다면 시험우선순위를 선정하는데 도움이된다.
+
+“e944 feck to Bock Test ete SO] ARNG 5 을비르게구선혔는지화인디 OFA TBE LOI
+요구시항 실행 ist Se ETE AIRE RE WSO] A-RAR AIROI7HSSIC SO] SE SHR
+‘Sri SO eA APA AMEE AS}O|a-AHNS MIRO AAS AOLAR OED NES LOHR,
+애한다 ER 2 in ARS BNR AF HOLAR ANGE 8 ATH eR SSE EA
+2P1 BS RIN ANE 7 RIOR DE Ate HOLA O}F ML, SL PLANO ARES AIA UDEI,
+
+122M
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+.그림\-12 요구싸항 기반시혐과백투벅테스트
+oy            a9
+oS         이여
+200 | | 왜 | a_i
+뜨거          a          ss         as
+ans                 son
+a             oe
+
+CIE ARE 딘위 ARIAS 04 IPI 내 입력인터페이스 AIR RC. 소프트웨어 BRAID
+CHP SRI PEON ARSE) AMERDI IPR! Bs ie SHO 함수 또는 SH UDI AOL
+상적으로처리되는지 CHE 241 289 EMO AS] EVE BS BIHOR 4AbHAIAIBEIC. 다음그림과
+같이 도 내미입력저리를중심으로시형힌다
+
+ 
+
+nipa 32523            s
+

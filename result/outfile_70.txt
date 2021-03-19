@@ -1,0 +1,45 @@
+ 
+
+가이드
+
+| chapter 00                                         Sw7F RS
+
+9 AAT AEE VEG) = ledge} 21-4-DICode}21 +2
+
+82: RE VIG) = BIEL 1
+소프트\머 톡삼도는 힘수 내부의제어 OOM 분기 및 APR 열마나 포함하고 있는지메띠라 결정된다 소프트웨어
+SUE ESS oY WE 가능상이 Phe ABE ROI NHI G ARHOI BBE OAPIER BISEOR LT
+ore
+150 262620 소프트웨머이 톡삽도를 WS +E 이하로 낮추도록 권고하고 있으미 어느 정도가 낮은 수준인지는 언급
+‘RT RERR HS Source Cade Mets OW BE RD PKS IESE SS (Cyoat Campos
+ 10 이하로 낮추도록 권고한다. McrosottS| RE 품질규칙메서는 복십도를 25 이하로 유지하도록 하고 있다. 가빨하는
+ 아이템의 특성에 따라서 적절하게 관리하는 것이필요하다.
+© 언머의서브셋
+eof AMHOR IC Cr+ Sele NO AA 코드 ANY ERRPL OHNE 4 Sle S8HPH et
+01-7 SA HP SPA BS ANE OL As ZOE SOF AAS ABO 2 2
+OU + te FROME ROL ae aw UE NG, eee) ORE WA 있는 BAAR]
+exmeere
+150 262620444 C, C++ 21010] 49 MISRA (Motor Industry Software Reliability 459002000에서개발한프로
+RHR PHOIEAR IS SE 것을 요구하고 있다. MISRAS 199084 초 영국 정부 프로젝트인 “52681”를시작으로 안
+전이 중요한 소프트웨어 개찔을 우한 프로그래밍 표준을 빌표하고 있다, 시작할 때 자동차 분야기업돌이 주축이 도어 시
+AL 때문에 자동차 소프트웨어 분야에서는 TMA 표준으로 사용되고 있으며 향응, 국방 등 안전이 중요한 다른 산업
+분야에서도 많이 사용되고 있다. C C++ 언어와도덜링언어메대한가이드라인을 빌표하고 있으며 마중에서 COOH CH
+£208 21P 4994. JOE} He AIRSET SE MESRA COIS 1998년 2004. 20124212
+ 새로운 버전이 발표되었고 이를 각각 MISRA C-1998, MISRA C:2004, MSRAC:2012% 칭한다 MSRA C HESS
+ 451 홈퍼미지메서다 Mi SEK PONE 있다. 2018년 기준으로 가장않이 시용되는표준온1980&:2004이
+'며11984.0:2012년이떤버전에비해야래내용이 추가되었으나 전체적인 내용은 비슷하다.
+
+-0009901099.48지8
+
+-가존142개규칙에 17개규칙이추가되머총 159개규칙으로변경
+
+“PAIRED HP st Mandatory PEELE
+
+oe 8
+
+  
+
+ 
+
+nipa szpeseuse
+

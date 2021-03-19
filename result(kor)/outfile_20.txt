@@ -1,0 +1,24 @@
+
+소프트웨어를 통한 안전(Safety through Software)
+
+시스템 또는 장치에서 예상되는 위험원을 필요에 따라서 소프트웨어를 활용하여 제거 또는 감소하는 것을 의미, 이를 위해서는 시스템에서 발생 가능한 위험원을 분석, 필요한 소프트웨어 안전 기능(softwware Safety Function)을 식별하고 이에 대한 대책을 적용한다.
+
+소프트웨어의 안전(Safety of Software)
+
+소프트웨어로 인해 사고가 발생하지 않도록 소프트웨어 품질 수준을 확보하는 것을 의미. 이를 위해서는 소프트웨어 안전 기능이 만족스럽게 수행될 수 있도록 소프트웨어 안전 무결성(Software integrity)확보를 위한 다양한 SW안전활동 및 기법을 적용해야 한다.
+
+                                                                                                                                                                                                                 
+[그림2-4]소프트웨어 안전의 범주
+ 
+잠고로, 기타 관련 국제 표준 및 법규에서는 다음과 같이 소프트웨어 안전을 설명한다.
+
+- 시스템 내에서 안전한 소프트웨어 작동을 보정하기 위해 위험원 및 위험원 기능의 식별 분석, 소프트웨어 위험원 감소추적 및 제어에 대한 체계적인 접근방식을 제공하는 소프트웨어 엔지니어링 및 소프트웨어 보증의 측면
+ The Aspects of Software Engineering and Software Assurance that Provide a Systematic Approach to Identifying, Analyzing, and Tracking Software Mitigation and Control of Hazards and Haazardous Fuctions Identifying, Analyzing, and Tracking Software Mitigation and Control of Hazards and Hazardous Functions
+ (e.g., Data and Commands) to Ensure Safety Software Operation within a System
+     *출처: NASA-STD-8719.13C Software Safety Standard
+- 소프트웨어의 모든 생명주기 단계에서 운용 효과 및 적합성, 시간, 비용 제약 조건 내에서 가능한 위험을 달성하기 위해 엔지니어링 및 관리 원칙, 기준, 기술을 적용하는 것
+ The Application of Engineering and Management Principles, CCriteria, and Techniques to Achieve Acceptable Risk within the Constraints of Operational Effectiveness and Suitability, Time, and Cost throughout all Phases of the Life-Cycle.
+     * 출처: DoD MIL-STD882E System Safety 
+
+- 소프트웨어로 인힌 사람의 생명이나 신체에 대한 위혐의 발생 방지하게 이에 대한 충분한 대비가 되어있는 상태
+     *출처: 소프트웨어산업진흥법 전면개정(안), 2018년, 과학기술정보통신부가 입법 예고

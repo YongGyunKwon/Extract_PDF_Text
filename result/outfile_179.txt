@@ -1,0 +1,49 @@
+Chapter 000                                                            산@뭉팀폴릿
+7.4.외부인테미스
+ALAS APIEDIOIAY OR Systemintrfoce, User interface 3 Hordvareintertace POP IRE A
+Sabi FARE ARC,
+gave CempLAs Tepe
+
+In-board Commenicaten Interface (MCU - stem elements)
+ECU connector~ Software np varsbes EAR HWY SWWREFBIOLA SOF SH ZAR)
+2 EMILE ChE TSE TAF AIC
+Interface ignale{Range(min, max, 9K, Scaling, Interface Functor(AP, Hardware interface
+Type $A, UARTS)
+
+15, SHAPER
+
+Sw RAOLAPAOR “1B + She YEE BDI
+
+-cigatare 항독이제익조건이훨수있다
+SW 7H BPS 7 ROE OR A SWAB 1B 5)
+Hi 1g SDN DY AYO: YES AIDE 동일 ALCON RIO Ms OHI,
+Spore)
+Corsi Legacy SWE AIBO2 28 Appation SMOHBOECHEH
+SWinteruptsericeroutineot CY NPY AIRYOE nesing®| 9415)
+2 22240 AHO heop stack OF)
+
+2. SW Is 2248
+21. SWFA
+~SW SANNON CRD AT OI E> FIRE SWl FA
+~chgatare A718 + 2
+SWOl 2 FACE FE ETS A)
+15131 LH Bement2t Interconnection
+SW Platform 48 20
+2.2, SW 7H AIO)
+‘Sytem Requirements Specfcatirdl OIE! ALS 801 73-2071 4 SWW7E ABODE 21
+ 기6예대한요구시항들 7H,
+-다향독이가슬되어야한다
+2) SW 7}801M S38 le unctonakty)
+2} SW 7}501 235k 45 6 Slral Rescuton, Algorithm Execution Speed)
+2} SW +88 94 9 Of ZELAOIE CH 2-PARNOE Data Source, Input Oata Name,
+Data Handing Sequence, Input Processing Ling)
+각 544 7HSOIM SSB Oe SAIGOIOLCHEE AA
+2) SW 2 2H A22 48} AOL: Detection inten, Execution Time, Reston Time)
+EE Q5}4 (Of: DotalCode Secu, Data Duplo, Resource Consumption)
+
+ 
+
+ 
+
+10                                      amieweree
+

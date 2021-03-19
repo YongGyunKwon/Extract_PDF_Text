@@ -1,0 +1,43 @@
+Part        ㅁ                      '5464준인썬가이트
+Chapter                                                         S028 EDR aE
+
+bool tcheck speed(uint6.tspeec)
+「
+11610.
+ifspeed>max speed 1 //초기화없이시용
+result = fale:
+1906
+result= tue:
+)
+returesit
+y
+
+eM ORS IROR 사용하지않음
+
+.<연어의경우동일한이을 가진 BOL APRA AON AML 있다 이경우 ARN EEO BS
+되지만 TRL i 49} Hote 2+ OM SB + Ot 같은 OIRO SAFE HOES Oe A+ CE
+지90수의메모리가읽히고 Ce Seo: HA eR o271 OPH ECL OEE the IE NG OP|
+활수있기때에사8이곰지다. MSRAC (2014) 72415 21 MISRA C (2012) 94] 58-59ROIE WAPIORS
+지한다 wise 갈게 ate Ie RIAL) IAI + 있는 eo) Yolo BMPS 경우 코드상애서시람의
+눈으로는 TE MSMR ASIAN AMBP He BE 변수명으로 Mth ele We 고져5한다 OLE MSA
+(2012) 941 5.1-5.28 TLL OF Of count WE OI Ake HEH FH EHEC
+
+ 
+
+uint32 tenant:
+Staticyoidfunctin(vo)
+t
+
+Int 16 t count =O; // 04 29} OO SWS Xe
+)
+
+'* 암시적형변환없음
+
+.ㄷ에서다 W488 7K SRO! uh 사이메연산이 임어나게나알당이 SI a YO] 임머난다 < 언어
+A eH) fa TR Yo Fe MEO | ROH BO IO] ARSC ERE QP Ot
+tO S410] de] eH 91H AOL OR OI
+
+ 
+
+10                                      amieweree
+

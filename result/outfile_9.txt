@@ -1,0 +1,70 @@
+때 0                                                                         개요
+
+5. 참고문헌
+
+1915026262-1:2011 Road vehices Functional sfety--Part 1: Vocabulary
+
+19150 26262-2:2011 Road vehices ~ Functional safety Part 2: Management of funciona safety
+
+#150 26262-3:2011 Rood veces ~ Functional safety —Part 3: Concept phase
+
+1915026262-4.2011 Road vehicles ~ Functional safety Part 4 Product development atthe system ve
+
+(9150 26262-52011 Road vehicles ~ Functional safety ~Part 5: Product development at the harcvare
+level
+
+19150 26262-62011 Road vices ~ Functional safety ~ Part 6: Product development at the software
+lee
+
+1915026262-7:2011 Road vehides ~ Functional safety Part 7: Production andperation
+
+19180 26262-8:2011 Road veces Functional safety ~Part &: Supporting processes
+
+1915026262-9:2011 Road vehides— Functional safety ~ Parts: Autti Safety itegty Lavell ASI
+‘nented and safety oriented analyses
+
+19 18026262-10:2011 Road vehies ~ Functonl safety ~Part 10: Guideline on 50 26262
+
+(© 58150 26262-12012 5 ARTs AI BO}
+
+(9 51150 26262-22012 AF 71 QI AID Hs IZ
+
+(9 51150 26262-3:2012 Si AFP -715 I-A ARSE
+
+(9 KSRIS0 26262-42012 52 AR) TI EAC AA SER
+
+(© 51190 26262-5:2012 52 A} PIs QI IS DIERPLS ESLER
+
+(9 51150 26262-62012:S ARP P15 인젼-제6: AHH EO EH
+
+(© 58150 26262-72012 $2 ARY-7ls AIT AE 2
+
+(9 51150 26262-82012 $2 NF - 71 QI AIS ARLENE
+
+(9 51150 26262-9:2012 Si AP -715 I -재9:자차 PIPES ASI) BIE
+
+(© 51150 26262-102012도로지랑-기6 St -ANOWSKS RISO 26262에대한지점
+
+0 EC 61508-12010 Functonal safety of 00110100010101100017016 electronic 50013
+‘ystems Part 1: Generalrequiremerts
+
+./ EC 61508-22010 Functional safety of detriclleectroncprorammatle electronic safety-related
+‘stems - Part 2 Requirements for deetici/lecronilprogammetle electronic safety-related
+‘tems
+
+0 EC 61508-32010 Functona safety of dectriclleectroncprogrammatle electronic safety-related
+_jstems-Part 3 Pat 3:Softwere requirements
+
+{9 EC 61508-42010 Functonal safety of ectral/eectronc/programmatle electronic safety ested
+‘pstems-Part 4 Detnitns and abbrevtons
+
+(# EC 61508-52010 Functonal safety of ectrcal/electron/programmatle electronic safety-related
+‘systems Part 5: Part 5: Examples of methesfor the determination of safety ntgry levels
+
+.＊ EC 61508-62010 Functional safety of eectrical/elecronicprogrammatle electronic safetyeated
+stems Part 6: Gudelnes onthe appicaton of EC 61508-2andlEC 61508-3
+
+ 
+
+10                                      amieweree
+

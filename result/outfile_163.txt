@@ -1,0 +1,72 @@
+Part               o                                       48 A
+Chapter 0”                                      SW 7 SE 8 4)
+
+00 소프트웨어단위설계
+(1) 228910} £191 404 08
+
+AIL ADH WeIHOR AIEEAD| OP RP SOOM ANNE! 소프트웨어 RINE EIR AE. 딘위
+aprapsonie cigatzch
+
+표나29.딘위설계에제
+
+ 
+
+196.10171811660.0006.0471901
+
+None
+
+Linares [outs 00910 | Soctesion |
+
+Ox Confiuration OK
+«iC: Conhiguation Fat
+
+ 
+ 
+
+outputs
+
+                                                                                                                                                                                                                           
+
+Return vate | UNTE
+
+Abe a
+Zane SSE i
+sPeato code
+UNTB ADC. Conta BATTIVod)
+{
+
+1.ADC REG 03 — register 000
+
+ 
+
+see
+
+Single Measurement
+
+                                                                  
+
+  
+
+                                                                                                                                                                                                                                                                 
+
+ae         3.3 변 channel ADC 동작 모드 ~ Single Measurement
+
+ 
+
+18018 7160101) PARI EIT
+
+1 2S IIs Psat Code Flow Chan $848)
+1 2 Ameo | EMOLAFencton Prtatype )
+
+9 2 AMEMPIERI Beaton Inger 조건
+
+2: AREAL CHIASLIHIBER BP)
+
+© 2 AME PHASE Date Dataol Sucre
+
+ 
+
+ 
+
+ 
+

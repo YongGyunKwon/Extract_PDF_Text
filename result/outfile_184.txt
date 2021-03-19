@@ -1,0 +1,46 @@
+2
+a
+벅
+
+Chapter 000                                                            산물
+
+i
+
+15, ECU HW Ue eos 21 2H
+
+ 
+
+ 
+
+2.1404/1ㄷ설정정보
+
+2.1. $46(Boot #41 2€(Operatng Modes)
+MCR HE SE WEN SER TERE
+211.585 BEIBoot Mode)
+
+ 
+
+ 
+
+2.12.88 2£{Operating Mode)
+
+of      figuration metho
+Name            (incl, REG, HW-jumper
+
+                                                                                       
+
+ 
+
+22. BRYAPEAClock Configuration)
+
+ng wR8 etic
+2, MCURICE! S31 AB NOP 9 HW MEI HW eA Se HY pin 2, PLO)
+221/84 4-Nclock generation source] SHOE OAPI BALA)
+20) 58, 1-58 (perpheras Be! 2 MCUs IC2| OMEN BI A
+
+3.0122) ard
+
+ 
+
+nipa geeuseuse           1s
+

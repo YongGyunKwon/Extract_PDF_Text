@@ -1,0 +1,56 @@
+ 
+
+Part                 o                                                            가이드
+Chapter 000                                                         Sw aie
+
+3. SW 지원프로세스
+
+인전 요구사항 명세및 관리
+
+150 26262.8의6즐메서 인전 PANN Mee PLN FOE et. Os AA aM we
+상이 되는 ON ARLE ISO 26262-301A “PSS 7H SOPEI AN SO 26262-401 AION SARE ISO
+2626252 HR) HEI 요구사함. 150 26262-62| AIEEE] HI NANO 당한다. 2 MEDI HE a>
+‘gh es SO 26262.8의6절의인전 AN AME PEN CHE OED OP
+
+안전 2A TE we UPR Te TR, 8 AOI ODI ASL BeILS UIE TTR ANGE
+도록권고하고있다 SY BLESS WS 소프트웨어 SIAR ABERDIOP | PLM POISE
+‘OR ABOIO| AALIBE 2.3 LENO] OP REN Adv MPe ey, Be IIe ADO,
+
+인전 Ae es YOR 요구상은 인진 ILE} 동일한 ASL eM BR Wc ele SLB
+ 715인떤 ONY, 시스템 요구사항 ISRO BHR, AMIE AIDA FAIR 2] ASLE 일관성이 있어야하며인전
+24/2 ASL HAlojoFSIC,
+
+'(1)인편요구사항명세
+
+인전 AN SA 때는 CHB LE 특징및 특성용준수해아 한다. 각인떤요구시항은 AOI Ue RAE
+
+지이 10009
+
+9 인전요구삼은 SHH ETO} EDIRC
+
+2 SHIR BEC 이상분쓸수 없는 수준이어야한다 두개이상의요구시창으로구분활수 있다면분리하여직성
+[개
+
+9 DIE a pa Ce 요구시항들과내부적으로 BHO] 있어야한다 특정 안전 요구사항응군차려면다른요구사
+항을구전탈수없는 BOE 일관성이 없는 것이다 전체 OTB Geel gem APOE,
+
+.* 인변요구시황은 아이범의저막조건을 고래여구연 가능차아한다.
+
+SRI aS COMIN BSE + NOH
+
+SABE Chet RS S20 있어야 한다 [ERLSRNRIPAT © 18 2-24FGO] SASS OP 요구시창 직성
+
+oF B44OR ByeHFOK= YOK
+
+.* eae Be ese ea aise OR ATE
+
+.* 인전요구항싱태:제만 승인 O18, PH 4
+
+© 인전요구4창에절딩된451.래별
+
+ 
+
+ 
+
+nipa 32523            ~
+

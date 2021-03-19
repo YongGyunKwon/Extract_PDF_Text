@@ -1,0 +1,61 @@
+ 
+
+안젼의이버
+
+chapter 715 22(Functional Safety)2t ABE WO| Q\Software Safety)
+
+2.2 28(Functional 50160/과소프트웨어 2Ie4(Software Safety)
+기 SHE 전체적인 안전의 ATO GION 정확하게 동작해야 Oe ALA 또는 BIO 의해 SHON
+전을 Soe
+
+기능 EAS 안전 EAS 위해 하나 이상의 자동 보후 7} (Autoratc protection function) SEE 안전 기능
+(Safety function) 을 구현하여 AIO] 41M eo 및 건강 손상을 WHA BR 대용하는 것이다.
+
+fp
+
+ 
+
+  
+
+EFF BAA, 717
+Ie Ar oe eum 당하고 RIEHL
+
+  
+ 
+
+‘aot e045
+
+ 
+
+으로서 이는 Quiet
+
+ 
+
+안전(50000과 기능 인전40000001500057)의개념
+
+orig we te MNOMREIOITIR      .* 전체적인 안전의 BHO RO BEML Ee
+(Freedom tram Riskwhchis not Terabe) | 해야하는 ALAS =e Bef let Oe cs
+.* eo 위험한 AaB EEO HAZEL
+288 FOPLI BONN Sze a 층
+이도 보호 또는 조정 BH 또는 OPIUEE BA
+sore 24
+
+ 
+
+8
+
+  
+
+SUNOR 기능 UE AAR 전체 범위에해딩하는 MMOLE 7/2 BE IE BO| 가능한 ALARBOEASL
+안전 가능 구현 비율 의증가로 BH EA} 기구 Ce WYER BRET Hew AIA HoH BOK EC
+61508(Functonal Safety of Electrical Bectroric/Programabe Electronic Safety-related Systems)
+ABORT, 이를 71S fe 4 BOND 기능 안전 관련 BO AHS
+
+Ros 안전 국제 BEE APVARYREIYOIPhSB ALAMIEEME System  Bearica/Becrenic/
+Proganmable Becton Systenil 2°31 YOU, Mas HIE CPE ARES BUHL RUS
+oe 2742
+
+ 
+
+nipa szpeseuse
+

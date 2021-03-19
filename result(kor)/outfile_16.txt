@@ -1,0 +1,21 @@
+ 
+
+2.기능안전(Functional Safety)과 소프트웨어 안전(Software Safety)
+기능 안전은 전체적인 안전의 일부분으로 입력에 정확하게 동작해야 하는 시스템 또는 장비 의해 의존하는
+전을 의미한다.
+
+기능 안전은 안전 확보를 위해 하나 이상의 자동 보호 기능(Automatic protection function) 또는 안전 기능(Safety function)을 구현하여 사람의 신체적 상해 및 건강 손상을 발생시키는 위험을 대응하는 것이다.
+
+안전 기능(Safety Function)
+E/E/PE 안전관련 시스테, 기술 안전관련 시스템 및 외부 위험 감소 설비에 의하여 구현되는 기능으로서, 이는 명시된 위험한 사건에 안전 상태를 달성하고 유지하기 위한 것
+ 
+
+[표: 안전(Safety)과 기능 안전(Functional Safety)의 개념]
+
+
+본질적으로 기능 안전은 시스템 전체 범위에 해딩하는 개념이나 전기/전자/프로그래밍이 가능한 시스템에서의 
+안전 가능 구현 비율의 증가로 국제 표준화 기구 IEC는 전기/전자/프로그래밍이 가능한시스템에 한정하여 IEC 61508(Functional Safety of Electrical/Electronic/Programmable Electronic Safety-related Systems)
+을 제정하였고, 이를 기반으로 여러 산업 분야의 기능 안전 관련 표준으로 확대되었다.
+
+대부분의 기능 안전 국제 표준은 전기/전자/프로그래밍이 가능한 시스템(E/E/PE System: Electrical/Electronic/Programmable Electronic System)에 한정짓고 있으나, 분래 기능 안전은 E/E/PE 시스템을 포함한 획장 개념임을 
+이해할 필요가 있다.

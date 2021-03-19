@@ -1,0 +1,55 @@
+Pact               a                                       48 Ae
+Chapter                                      SW 7 SE 8 4)
+
+© B512ElOperating Mode)
+LV BSE A
+
+Default NomalOpwaion Rover onebtoy 28884 =         y
+
+ 
+
+ 
+
+BB | ype ener PIS
+Sem ELD | 아이어   .
+
+ 
+
+(9 Mode Nome: 2) MOUS1ICO1 BI 2 Att
+
+(© Purpose of Mode: 21 $41 S01 SHCA! ZEROS
+
+.@ Mede Configuration Meth: 2: 1 SOIREE 2 FEKTiggerng S= BAAR HRC
+
+1 Appleable: 21.2] HWAIBOL Be 경우" 뜨는 NEA ICICKRIANO HY IRE MCU (
+SS S158 TRISH NEST gECH)
+
+(AE IS SE MCUNC CDIEHAIEON EI ABE 7} AS 적절치 않다 본 EI SAKE SW RIL
+OPAL! OH ABO: OK}. HOP! 9, HW” OKIE 문서 Se HW AP AN CY AP LA
+ot
+
+(9 BPIClock Configuration)
+
+oguse7iebet
+
+9 MCU SIC Zee HetOP | gt HV BRIO
+Oe HWeERLAE SEE HW pn A PLL RIOR
+
+.* BANE 4(Cock Generation Source) 8
+
+.* 0 2820321 4 Osclator Clock Speed)
+
+.* 201 BS 9 2p tAPecpherls Rh 21 MCU 또는1<의이상진 HE ALAS
+
+.* AE te 뚜는 MOU COTE AON ARSE ABH he 것은 API I. 본 SSI SAKE SW HILO
+OLEH! OH EBON ZIOK. OP! Ao, HW” CIOEIANE A eH 설계 AMON CAD AP A
+eet
+
+ 
+
+ 
+
+ 
+
+1a                                      amieweree
+

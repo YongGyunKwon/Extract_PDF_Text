@@ -1,0 +1,40 @@
+Part              ㅁ                                                                             - 에바
+Chapter 0                                                                ness
+
+7.자동차5\개요
+
+Masiswag
+
+SHB THE NBO 순수한기계장치로 틴생했자민! 현재 자동차 회사들은 기계 기솔로 해갤하지 못하는 인전 환경 PE
+ 사용자 편의성 MBS 위하여 전기전자 가솔과소프트워머 가술을 적극적으로 사용하고 있다. 정밀한연진제어소프트웨
+Of 없이는 AAAS SEAL CRIS 환경 규제를 만족시릴 수 없다 차선 유지 보조 (Lane Keeping Assist) 시스템이나자동긴
+“BANG (Autonomous Emergency Braking) 시스템과 같은 점단 운전자 보조 (Advanced Driver Assistance) Al
+은 모두소프트웨머로구현된다.
+
+자동자소프트웨머는 얄반때키지소프트웨머와달리제어기에 냐장되머있기 때5에부품의일부로 SACD 사용자의눈
+Off 보이지않는 SS 가진다. 그렇기 때문예소프트웨머의 정상 동작여부를확인하기 어렵고 소프트웨어 YEO YE
+노력과시간이 필요하다. 또한 고속으로 운행하는 자동차를 제어하는 제어 소프트웨머의 경우 소프트웨머의 오등작이치
+ORE Ae 아어 SP ROI SA AE EROS 을 BARKS OI BAKE RAHA SH
+Boles SH UEP IOKE SalOIEERINE AmERDI| gee Re BONSAI TENOR SH
+자의운전 행위를 방채할 수 있기패문에 안전을 고려한세심한 설계가 필요하다.
+
+ 산업 구조 측면에서 자동차 소프트웨머는 BHI 회사 (OEM) 혹은 부품사 (11@ 의 발주에 의해서 및춤청으로 개발되
+는경우가대부분야다. 비슷한 기능을 Oe AERO! BOS NSA 연식별로 YOR AIS 가지고 있기 TH
+Of 소프트웨어 PIRSA 다양한 요구사항 번화에 유연하게 대용해야 한다. 그렇기 때둔에 소프트웨더 개빌사는 요구시항
+ 을 정교하게 관리하는 기승을 가져야 하여 동시에 모든 요구사항 변화를 수용하면서 안전음 확보하는 어려운 문제을 하결
+혀야힌다.
+
+ 소프트웨어 개빌자 관점매서 자동차 소프트웨머는 다른 소프트워머 분야에 비해 진입징벽이 OFF 높은 분야이다: 가발 도
+tes 7 1-40 비교 CE Ae I ed ABH AOR TIN FRONT
+ 발 환경을 구축이 OF? | 때문에 개별 개빙자가 쉽게 진줄하기가 어려운 분야야다, 개방 방법론 측면에서도 소스 코드를
+REDE ABER COI ERI SRE AS YIM ABSKE MED 04000 Based Design
+법을 않이 사용한다. 또한 고속으로 움직이는 자동차과 연결되어 동작하기 때문에 CRE 이용해 프로그램의 동직을
+ROCHE NS shar > En CR 소프트웨 내부 alg AARIOR SLRS aI
+Calloration & Measurement 기반의 평가 빙식이 SSC. 특히 안전 BSS 위해테스트와 평가 조직이 강하고 전제
+적에 상명주기가최소 3-5 RIOR OFF Ue ORE RABE ER AEERDD RUBIO SE
+spormeiean art
+
+ 
+
+amieweree
+

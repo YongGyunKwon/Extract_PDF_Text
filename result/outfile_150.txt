@@ -1,0 +1,111 @@
+Part              o                                       4B Ae
+chapter                                      SW 7 Sm 4
+
+표처.78.70바직성엑시
+
+nao
+때            3            aes
+
+ 
+
+General Function
+Teske          1          as         zone Safety Task-BATT menitorng
+Tasks           2            205          roms Safety Task Communication
+
+ 
+
+«© SW:P2U'ION EP} interupt Serve Routines: WAI Task 2h +L
+
+© 0S te Schedkier HALE EI AREROP} 179] Tek PHGhe HH AHO] Ea
+
+Sequence Dagrame Cig BSH CHEM IEDC,
+
+© 상위수준 944 기능 BOIS 544 기능 SHEL ENSUE SE 경우 OIE SW ISHED
+Ol I)
+
+© HED RATSCON SER! PROPLIS SWEET
+
+ 
+
+TUS Tok 722
+resco | tose        때에
+
+                                                                                                    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+702 | 209 | 새시 |590700-1400000:
+
+ 
+
+7903 | soos |__| Sey Task Cormncaton
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+794 | dome [aw [ eter Ta worm
+
+ 
+
+ATES POP RA AS AFO) EE BAe
+
+.* Sw: ee terug Service Routines 2 Tasklt 2 uC
+© OS Se Schexkier7 HAH} Hm AERP} 1799] Tsk PENS 9H AHO] BAPE
+
+ 
+
+ 
+
+nipa szpeseuse            “
+

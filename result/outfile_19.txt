@@ -1,0 +1,54 @@
+Pact    o                            AREY 29 Of
+Chapter)                                                AEH) 2ESoftware Safety) 7A
+
+3, 소프트웨어안전(50481 Safety) 개념
+
+16661220"미서는 소프트웨어 H2USoftware Safety “ONL 사고의 UT 인해 사랑의 사망 상해 또는
+재산 피해의 HIRI 될수 있는 소프트웨어 위험원*으로부터 자유로몸0ㅎ000 fom Software Hazards)
+이라고 이야기하고있다.
+
+EE Standard fr Software Safety Pan, AO} ON
+
+사고 4&0 Sle AILEO| UA Sofware Concton haa Prrequlee ton Accent
+
+ 
+
+ 
+
+AAS SE BU 허용가능한 4E2] 위험에서 벗어나 ALTE 이어지는 소프트웨어 상태가 되어서는 안된
+다는 것을 의미한다,
+
+소프트웨어 안전을 디음과 같이 Bow + 있다.
+
+ 
+
+시스템 또는 장비의 위험*이 소프트웨어 ' aE
+
+ 
+
+ 
+
+ 
+
+                                                                                                                                                                        
+
+억제 예거또는 감소) 되어 있는 상태
+et 82 2 I AICO 조한 SFO ef 소르 이얼 + 있는 7HeesProbabmny at HEE Geert)
+store 28-201
+[== 50) 2Software Capabiity)
+
+ARERR REL 7e Se eM STO AY
+
+소프트웨어 QB 화보하기 위해서는 시스템 장비에서 OLS PME WOE HIe|OH 시스템의 기능안
+NAVE 위해 소프트웨어로 PRISE 구현하기로 한 경우 등] 소프트웨어를 BSI 제거 -광소하거나 소
+HERO] SMe 인한 AIT 위험 FER 허용 가능한 수준으로 낮추는 alo] 밀요하다.
+
+Aol FIN ASS 통해 1 YUE 미리 식벌하고 적절한 메커니증을 적용하여 He 감소대책을 적용
+하거 소프트웨어 품질 OES 회보하여 소프트웨어 Sake Wes 7H B 사고로부터 BR 대비 해마 한다.
+이러한 BION 소프트웨어 OFS 아래 [그림 !-4와같이 '소프트웨어를 BO! 안전(5뀌0 10000" sot:
+ 0010)과쏘프트웨머의 Safety of software) BOF EAPC
+
+ 
+
+2»                                      amieweree
+

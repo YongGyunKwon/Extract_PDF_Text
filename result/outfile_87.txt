@@ -1,0 +1,45 @@
+Pert                      a                                                             '54/수준인뻔카이트
+다000 16                                                         SW 7 ERS BE
+
+** A.-AMEWO! LIE Li ee BIE(Cohesion)
+Amp SSE BER ol 것은 UNSEON 72! 들이 하의 FR AIH ADAMS 201, OF
+Yo) 2 URI Oe 7x AR EPH PROS RIE UI BNO) AE COIL GO| 2) BE]
+of Yo] SOIR, Wet WHS HO ROHL ECT. BEN NOM AMER) BICOL SEI HBO]
+들어갈수 있고 코드 ws A PREIS BO OR OFA +L 신뢰성 Re 소프트웨어 LE
+7194 ELIE HOI OO] BE ARI SAS Lol SEEM OPO 높은 SESE IE A
+ovate
+
+AMSH! MULES] Se BUSI ISOLA 기능적 BUS, CBEST, BM BES, BH BSA
+US, 논리적 BS, 92 RUSE TROL 기능적 BUG 잘 정의다니 esol okIOI OER?
+성하는 BOOM SUSI CL PH SEE BENE 내부의각 7Y 2-480) MB BR Be 것들로구성된
+APOE ORBEA 나서 RARITIES OHNE! ME RPI MOIS eI BSAC
+
+voidread writen type int but nt size)
+{
+
+swchitpe)
+
+t
+
+ 
+
+tne read si brek:
+Zine wtf, se) break;
+5}
+
+ AILERO| INTE Aol I! FB (Couping)
+BUTE PRUE 간의 Ye Ogee BE Ee 두 OF 사의 연관 개 WOK USE BEEN SRE
+하는 적도의 하니이고, 컴포년트 간의 불필요한인더태이스를 줄이도록 설계하는 것이 WAIL 컬함도가 높으면 컴포년
+트 내의 QAR 없는 부분 AIO 인해 소프트웨어 오류가 발생할 수 있는 위험미 증가힌다, 기능적으로 독립된 컴포넌트
+는 다른 SEI ZIG CE MOHALI 가지므로 SO 업고 컴포넌트 20] BYOR 오류가생길 가능성이 줄어튼다.결
+합도가 RSH 컴포넌트를 수정해도 CHE 컴포년트에 BIRKS 거의 미치지 않기 때문에 오류가 빌뱅해도 쉽게 발견하여
+ofa Sct,
+
+-AUSH| WEUEO| UTES TUS, BS TUS. AOI TUS AWE BUS Ae NUER RE 4 01
+내용결함노는 가장결합도가 높으며 AS 결합도는 가장 낮다 OR SASH 복합자료 TA OPI 번수로 전달하여
+참조하는 ABE BUSH 가지는 함수 모듈의예야다.
+
+ 
+
+                                      amieweree
+

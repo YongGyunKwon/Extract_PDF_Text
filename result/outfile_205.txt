@@ -1,0 +1,65 @@
+Part                       a                                                       \
+
+Chapter              a                                                          180 26262/A-SPICE U2
+BAswe2 소프트웨어 아키텍처설계
+
+AILEMD{OP MH APRS ARDY APNE PRON AFI OFT PON He 것인지 RIOD ANE,
+apis 202 Cat ze Bee se
+
+(9 SWEZEPI: AMERD{OP RIA DHE TREE
+
+(9 SWE2EP2: AMER OA BRC
+
+(9 SWEZ8P3: ATER SERIES| LEMAR Bore
+
+9 SWEZEP 4: ERE SCL
+
+9 SWE 2ePS NL 20 RUB yoIC
+
+SEZ BPE: CIC] AITEAD| OP RENE BPHICL
+
+(9 SWEZEP7: 2a PASE 4B
+
+9 SWEZEPS: Bese wate,
+
+.＊ SWE2BP9: OIE] AIIEAID| OP RH APIE SHAR OIC
+
+이증에서801~804의소프트웨어 OP Rp BPH 요구항할당시메150 26262에서요구하는 소프트웨어아키텍처
+설계표기법의비정병 B7he, el IS BSH OP RIE BME! 수 있다. 또한 AED) OP RA
+직인 AME) eUYlRS| MBH PX, EMS AIPH 크기 높은 BUS. MORI INER ROH AERO} OF
+212 I Bl + OD) BPS AERO OP ERP BPH WER UCL PMNORE APH
+검증빙법인워크쓰루 oR ete ee 4 ct
+
+EE SWE.3 소프트웨어 상세 설계 및 단위 개발
+
+ASEH] 4A 2012 ARIUS ATES OP INE FARO AERO CIS 임하고 THLE OR
+cigaue wee eae
+
+(9 SWE 381: 8} AM ME BRE.
+
+.＊ SWE 3EP7: AERO HIPR| PERAK BO}
+
+9 SNE 3B: BIE MIC,
+
+(9 SWE 34: 81 AM ME WP.
+
+SE 3S: SRI FB 4B
+
+.* SWEEP: HSS Wate,
+
+(SE 3EP7: OF AILED| AM NE SAL BO
+
+19 SVE 388: ARE RDIEIOE ABR
+
+0 oh 61-840] ASLO] 4M PL £19 IEIIDLA BOL BH WEE At ALISO 26262004 OSH 소
+ERO) | AAS FR ADL Ue IDI TTS MR UCL BE ETE
+‘U2 FLD OH OBI POOHe AIH APH NABH AIS APH LT, 804.
+의상세설계핑가의 기준으로 BRR + Ue BPA PH OR CIAL PA Be WE HS, OLA ES
+용활수있다
+
+ 
+
+ 
+
+208                                      amieweree
+
