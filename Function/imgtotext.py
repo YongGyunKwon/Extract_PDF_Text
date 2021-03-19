@@ -12,7 +12,7 @@ def image_to_string1(filename):
     #img2=get_grayscale(img2)
     #img2=remove_noise(img2)
 
-    text=pytesseract.image_to_string(img,lang='kor+eng')
+    text=pytesseract.image_to_string(img,lang='eng')
     print(text)
     return text
 
@@ -28,6 +28,7 @@ def image_to_string2(filename):
 
     cv2.imwrite(filename,gray)
     
+    # lang change
     text=pytesseract.image_to_string(Image.open(filename),lang='kor+eng')
     os.remove(filename)
 
@@ -59,7 +60,7 @@ def image_to_string_multi(dirname):
             filename1=filename[:-4]
             #print(filename1)
             
-            file=open('D:\\2_CodeBase\\1_ISO26262Text\\Extract_PDF_Text\\result\\{}.txt'.format(filename1),'w',encoding="utf-8")
+            file=open('D:\\2_CodeBase\\1_ISO26262Text\\Extract_PDF_Text\\result(eng)\\{}.txt'.format(filename1),'w',encoding="utf-8")
             file.write(result_tmp)
             file.close()
     
